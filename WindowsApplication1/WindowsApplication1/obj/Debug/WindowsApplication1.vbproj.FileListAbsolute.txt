@@ -1,0 +1,10 @@
+C:\Alvaro\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Alvaro\WindowsApplication1\WindowsApplication1\obj\Debug\Test.Login.resources
+C:\Alvaro\WindowsApplication1\WindowsApplication1\obj\Debug\Test.Resources.resources
+C:\Alvaro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Alvaro\WindowsApplication1\WindowsApplication1\bin\Debug\testLoginPostgre.exe
+C:\Alvaro\WindowsApplication1\WindowsApplication1\bin\Debug\testLoginPostgre.pdb
+C:\Alvaro\WindowsApplication1\WindowsApplication1\bin\Debug\testLoginPostgre.xml
+C:\Alvaro\WindowsApplication1\WindowsApplication1\obj\Debug\testLoginPostgre.exe
+C:\Alvaro\WindowsApplication1\WindowsApplication1\obj\Debug\testLoginPostgre.xml
+C:\Alvaro\WindowsApplication1\WindowsApplication1\obj\Debug\testLoginPostgre.pdb
